@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR NAME!
+# 👋 Hi, I'm SANDHYA N!
 
 🎓 3rd-year Computer Science Engineering Student @ Kongu Engineering College 
 💻 Passionate about **Web Development (MERN Stack)** & **Problem Solving**  
