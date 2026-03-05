@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-n-a4268832b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sandhyan197@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Sandhya00/)
