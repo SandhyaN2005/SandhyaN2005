@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SANDHYA N!
 
-🎓 3rd-year Computer Science Engineering Student @ Kongu Engineering College 
+🎓 Final year Computer Science Engineering Student @ Kongu Engineering College 
 💻 Passionate about **Web Development (MERN Stack)** & **Problem Solving**  
 🚀 Exploring **AI, Cloud Computing, and Open Source**
 
